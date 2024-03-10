@@ -10,7 +10,7 @@ Last updated 10 March, 2024
   
 1. **Description**: An OER version of the collection of CS2 materials that I have created over the years, compiled on GH starting 2024-03-09.  
 
-2. **Maintaner**: Joseph I. Jess  
+2. **Maintaner**: [Joseph I. Jess](https://github.com/joseph-i-jess/)  
 3. **email**: <josephijess@gmail.com>
 
 4. [**Example syllabus for CS2**: syllabus.md](course_materials/syllabus.md)  

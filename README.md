@@ -16,4 +16,4 @@ Last updated 10 March, 2024
 4. [**Example syllabus for CS2**: syllabus.md](syllabus.md)  
 5. [**Example schedule for CS2**: schedule.md](schedule.md)  
 
-6. [**Licensed under CC-By-4.0**: LICENSE](LICENSE)  
+6. [**Licensed under CC-BY-4.0**: LICENSE](LICENSE)  

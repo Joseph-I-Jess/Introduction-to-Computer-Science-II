@@ -131,10 +131,10 @@ On completion of this course, students will be able to:
 
 ---
 
-### 9 Course Topics:
+### 9 Course Topics List (a more detailed schedule available in [schedule.md](schedule.md)):
 | **Week** | **Topics**                                                                                           |
 |---------:|:-----------------------------------------------------------------------------------------------------|
-|1         |Variables, conditionals, loops, functions, input, scope, comments, docstrings,                        | 
+|1         |Course intro, variables, conditionals, loops, functions, input, scope, comments, docstrings,          | 
 |          |Classes, methods, objects, eval, basic testing ideas, version control systems,                        |
 |2         |Files, file IO, reflection, design, testing, type hints, version control systems,                     |
 |          |Testing, code style: coding support, organization, decomposition, identification, teamwork, and tools,|
@@ -146,8 +146,8 @@ On completion of this course, students will be able to:
 |          |Searching algorithms, more recursion,                                                                 |
 |6         |Sorting algorithms, yet more recursion,                                                               |
 |          |A bunch of unit testing in pytest, still not yet exhaustive,                                          |
-|7         |Exceptions, exception classes, polymorphism,                                                          |
-|          |Widgets, inheritance, working with custom GUI elements,                                               |
+|7         |Inheritance, exceptions, exception classes, polymorphism,                                             |
+|          |More GUI components, inheritance, working with custom GUI componnts,                                  |
 |8         |Discuss final projects, more work on inheritance and exceptions, start an in-class project,           |
 |          |Review class topics, in-class project, final projects,                                                |
 |9         |Continue in-class project or help with final projects,                                                |

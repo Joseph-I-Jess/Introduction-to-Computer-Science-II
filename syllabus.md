@@ -1,10 +1,6 @@
-Last updated 09 March, 2024
+Last updated 10 March, 2024
 
 ### Introduction-to-Computer-Science-II
-**Description**: An OER version of the collection of CS2 materials that I have created over the years, compiled on GH starting 2024-03-09.  
-
-**Maintaner**: Joseph I. Jess  
-**email**: <josephijess@gmail.com>  
 
 **Initial class note**: This may be an introduction course to computer science (CS), but that does not mean it will always be easy.  This is a continuation of an introduction to programming design, testing, and implementation concepts using the Python programming language as a tool.  You should also expect to do some reading, much practicing and searching, and much discussion of the topics we cover.
 

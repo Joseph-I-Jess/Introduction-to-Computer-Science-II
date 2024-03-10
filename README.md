@@ -13,7 +13,7 @@ Last updated 10 March, 2024
 2. **Maintaner**: Joseph I. Jess  
 3. **email**: <josephijess@gmail.com>
 
-4. [**Example syllabus for CS2**: syllabus.md](syllabus.md)  
-5. [**Example schedule for CS2**: schedule.md](schedule.md)  
+4. [**Example syllabus for CS2**: syllabus.md](course_materials/syllabus.md)  
+5. [**Example schedule for CS2**: schedule.md](course_materials/schedule.md)  
 
 6. [**Licensed under CC-BY-4.0**: LICENSE](LICENSE)  

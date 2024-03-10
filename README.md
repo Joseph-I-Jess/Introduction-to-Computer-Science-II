@@ -16,5 +16,9 @@ Last updated 10 March, 2024
 4. [**Example syllabus for CS2**: syllabus.md](course_materials/syllabus.md)  
 5. [**Example schedule for CS2**: schedule.md](course_materials/schedule.md)  
 
-6. [**Licensed under CC-BY-4.0**: LICENSE](LICENSE)  
-   <img alt="Creative Commons attribution share-alike badge image" src="images/cc-by.png" width=80px>[Introduction to Computer Science II](https://github.com/Joseph-I-Jess/Introduction-to-Computer-Science-II) © 2024 by [Joseph I. Jess](https://github.com/Joseph-I-Jess/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+6. [**Licensed under CC-BY-4.0**: LICENSE](LICENSE)
+
+---
+
+<img alt="Creative Commons attribution share-alike badge image" src="images/cc-by.png" width=80px>[Introduction to Computer Science II](https://github.com/Joseph-I-Jess/Introduction-to-Computer-Science-II) © 2024 by [Joseph I. Jess](https://github.com/Joseph-I-Jess/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+   

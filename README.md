@@ -174,5 +174,6 @@ For a list of general administration information (note that this list is not int
 (each section contains a number of sub-sections and is not meant to be exhaustive of all situations)  
 see my [*Additional Administrative Information*](https://docs.google.com/document/d/1NTerBXVow4rFbZGEpWJKpkpA9DpyOSAfjzJ4FKhf0FU/) "Additional Administrative Information (Google Doc)".
 
-Changelog:
-1. 09 March, 2024, v1.0.0: initial release, partially copied from [my CS260 winter 2024 GH repo](https://github.com/Joseph-I-Jess/cs260_winter_2024)
+### License
+---
+Each file included in this repository is licensed under the [CC BY License](LICENSE).
